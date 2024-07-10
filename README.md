@@ -7,7 +7,7 @@ for the workshop [WASSA 2024](https://workshop-wassa.github.io/) collocated with
 
 
 <p align="center">
-    <img src="data/model.png"/>
+    <img src="data/model.png" width="300"/>
 </p>
 
 > **Figure:** Pre-trained BERT and DeBERTa models are finetuned using the **CombinedLoss** and **FGM** adversarial training for Emotion and Empathy Prediction from Conversation Turns.
