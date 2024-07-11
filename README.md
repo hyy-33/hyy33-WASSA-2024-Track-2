@@ -27,10 +27,19 @@ Install the related dependencies as follows:
 pip install -r dependencies.txt
 ```
 
-> TODO. Anything else to perform in advance?
+The pre-trained BERT model could be downloaded at:
+[bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased) 
+
+The pre-trained DeBERTa model could be downloaded at:
+[deberta-base](https://huggingface.co/microsoft/deberta-base) 
 
 ## Usage
 Please proceed with the repository scripts for fine-tuning [BERT](https://arxiv.org/abs/1810.04805) and [DeBERTa](https://arxiv.org/abs/2006.03654) in downstream classification and regression tasks.
+
+* bert-class-fgm-comb.py: BERT-based fine-tuning on classification task
+* bert-reg-fgm-mse.py: BERT-based fine-tuning on regression task
+* deberta-class-fgm-comb.py: DeBERTa-based fine-tuning on classification task
+* deberta-reg-fgm-mse.py: DeBERTa-based fine-tuning on regression task
 
 ## Models 🤗 
 The results of the fine-tuned [model](https://huggingface.co/hyy-33/hyy33-WASSA-2024-Track-2/tree/main) submitted for the Track 2 are as follows:
