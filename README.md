@@ -1,5 +1,7 @@
-# hyy33 at WASSA 2024 Track 2
+# hyy33 at WASSA 2024 Track 2 [![twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://x.com/nicolayr_/status/1824076665963843849)
 ![](https://img.shields.io/badge/Python-3.10-brightgreen.svg)
+[![twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://x.com/nicolayr_/status/1824076665963843849)
+
 
 This repository presents our scripts and models for the paper
 [hyy33 at WASSA 2024 Empathy and Personality Shared Task: Using the CombinedLoss and FGM for Enhancing BERT-based Models in Emotion and Empathy Prediction from Conversation Turns]()
