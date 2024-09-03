@@ -1,12 +1,11 @@
 # hyy33 at WASSA 2024 Track 2 [![twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://x.com/nicolayr_/status/1824076665963843849)
 ![](https://img.shields.io/badge/Python-3.10-brightgreen.svg)
 [![twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://x.com/nicolayr_/status/1824076665963843849)
-
+[![arXiv](https://img.shields.io/badge/acl-2024.wassa_1.39-b31b1b.svg)](https://aclanthology.org/2024.wassa-1.39/)
 
 This repository presents our scripts and models for the paper
-[hyy33 at WASSA 2024 Empathy and Personality Shared Task: Using the CombinedLoss and FGM for Enhancing BERT-based Models in Emotion and Empathy Prediction from Conversation Turns]()
+[hyy33 at WASSA 2024 Empathy and Personality Shared Task: Using the CombinedLoss and FGM for Enhancing BERT-based Models in Emotion and Empathy Prediction from Conversation Turns](https://aclanthology.org/2024.wassa-1.39/)
 for the workshop [WASSA 2024](https://workshop-wassa.github.io/) collocated with [ACL 2024](https://2024.aclweb.org/).
-
 
 <p align="center">
     <img src="data/model.png" width="300"/>
@@ -14,6 +13,8 @@ for the workshop [WASSA 2024](https://workshop-wassa.github.io/) collocated with
 
 > **Figure:** Pre-trained BERT and DeBERTa models are finetuned using the **CombinedLoss** and **FGM** adversarial training for Emotion and Empathy Prediction from Conversation Turns.
 
+### 👉 [Presentation](https://raw.githubusercontent.com/hyy-33/hyy33-WASSA-2024-Track-2/main/data/ACL2024_WASSA-EMP-10_Huiyu_Yang_slides.pdf)
+### 👉 [Poster](https://raw.githubusercontent.com/hyy-33/hyy33-WASSA-2024-Track-2/main/data/ACL2024_WASSA-EMP-10_Huiyu_Yang_poster.pdf)
 
 ## Contents
 * [Installation](#scripts)
